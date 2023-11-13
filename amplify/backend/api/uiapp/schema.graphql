@@ -1,0 +1,6 @@
+type Fox @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  fid: String
+  name: String
+  src: String
+}

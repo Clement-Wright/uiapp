@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3uiappstorage90c008b0",
+  "bucketName": "uiapp-storage-90c008b0",
+  "policyUUID": "bb29e912",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
